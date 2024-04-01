@@ -1,4 +1,4 @@
-package org.example;
+package org.dsaProblems;
 
 public class PalindromeNumber {
     static int reverse;
