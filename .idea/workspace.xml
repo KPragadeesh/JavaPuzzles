@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="717ea287-9e6c-4ea2-a323-d991a185b35c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/FrequenciesOfLimitedRangeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/PrimeNumberOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/arrays/FrequenciesOfLimitedRangeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/arrays/FrequenciesOfLimitedRangeArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,9 +47,9 @@
     "last_opened_file_path": "/Users/pragadeesh/Downloads/Java/TestMaven"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrimeNumberOrNot">
-    <configuration name="FindTransitionPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.arrays.FindTransitionPoint" />
+  <component name="RunManager" selected="Application.FrequenciesOfLimitedRangeArray">
+    <configuration name="FrequenciesOfLimitedRangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.arrays.FrequenciesOfLimitedRangeArray" />
       <module name="TestMaven" />
       <extension name="coverage">
         <pattern>
@@ -123,7 +122,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.FindTransitionPoint" />
+      <item itemvalue="Application.FrequenciesOfLimitedRangeArray" />
       <item itemvalue="Application.KeyPair" />
       <item itemvalue="Application.LongestCommonPrefix" />
       <item itemvalue="Application.PrimeNumberOrNot" />
@@ -131,11 +130,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequenciesOfLimitedRangeArray" />
         <item itemvalue="Application.PrimeNumberOrNot" />
         <item itemvalue="Application.WaveForm" />
         <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.KeyPair" />
-        <item itemvalue="Application.FindTransitionPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711448876979</updated>
       <workItem from="1711448878179" duration="1494000" />
-      <workItem from="1711644416922" duration="31897000" />
+      <workItem from="1711644416922" duration="36297000" />
     </task>
     <servers />
   </component>

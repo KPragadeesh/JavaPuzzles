@@ -1,25 +1,23 @@
 package org.arrays;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class FrequenciesOfLimitedRangeArray {
     public static void main(String[] args) {
-        int num[] = {1,2, 3, 2, 3, 5};
-        int n = 5;
-        int p = 5;
-        frequenciesOfLimitedRange(num,n, p);
+        int num[] = {3,3,3,3};
+        int n = 4;
+        frequenciesOfLimitedRange(num,n);
     }
 
-    public static void frequenciesOfLimitedRange(int[] num, int n, int p) {
-        List<Integer> frequenciesArray = new ArrayList<>();
-        int number =1;
-        int count=0;
-        for(int i=0;i<n;i++){
-            if(num[i]==number){
-                count++;
-            }
+    public static void frequenciesOfLimitedRange(int[] num, int n) {
+       Map<Integer, Integer> frequenciesOfLimited = new HashMap<>();
+       List<Integer> frequenciesArray = new ArrayList<>();
+       for(int i =0;i<n;i++){
+           frequenciesOfLimited.put(num[i], frequenciesOfLimited.containsKey(num[i])?frequenciesOfLimited.get(num[i])+1:1);
+       }
+       for (int i = 1; i <= n; i++) {
+            frequenciesArray.add(frequenciesOfLimited.getOrDefault(i, 0));
         }
+        System.out.println(frequenciesArray);
     }
 }
