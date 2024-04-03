@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="717ea287-9e6c-4ea2-a323-d991a185b35c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/CountPairsGiven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/DuplicatesInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/EquilibriumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/FindTransitionPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/KeyPair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/LeaderInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/RotateArrayByDSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/SecondLargestDistinctElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/WaveForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/FrequenciesOfLimitedRangeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/arrays/PrimeNumberOrNot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/arrays/MissingNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/arrays/MissingNumberInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +48,7 @@
     "last_opened_file_path": "/Users/pragadeesh/Downloads/Java/TestMaven"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.WaveForm">
+  <component name="RunManager" selected="Application.PrimeNumberOrNot">
     <configuration name="FindTransitionPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.arrays.FindTransitionPoint" />
       <module name="TestMaven" />
@@ -98,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArrayByDSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.arrays.RotateArrayByDSteps" />
+    <configuration name="PrimeNumberOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.arrays.PrimeNumberOrNot" />
       <module name="TestMaven" />
       <extension name="coverage">
         <pattern>
@@ -136,16 +126,16 @@
       <item itemvalue="Application.FindTransitionPoint" />
       <item itemvalue="Application.KeyPair" />
       <item itemvalue="Application.LongestCommonPrefix" />
-      <item itemvalue="Application.RotateArrayByDSteps" />
+      <item itemvalue="Application.PrimeNumberOrNot" />
       <item itemvalue="Application.WaveForm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumberOrNot" />
         <item itemvalue="Application.WaveForm" />
         <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.KeyPair" />
         <item itemvalue="Application.FindTransitionPoint" />
-        <item itemvalue="Application.RotateArrayByDSteps" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +148,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711448876979</updated>
       <workItem from="1711448878179" duration="1494000" />
-      <workItem from="1711644416922" duration="28740000" />
+      <workItem from="1711644416922" duration="31897000" />
     </task>
     <servers />
   </component>
